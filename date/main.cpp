@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	
+	cout << "hello world" << endl; 
 	//---- probando la clase proyecto
 	Cjefe* jefe_1 = nullptr;
 	Cproyecto* proyecto_1=new Cproyecto("instalacion de software para tomografo.","xxxaaa");
