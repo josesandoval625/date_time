@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {
-	cout << "hello world" << endl;
+	
 	//---- probando la clase proyecto
-	/*Cjefe* jefe_1 = nullptr;
+	Cjefe* jefe_1 = nullptr;
 	Cproyecto* proyecto_1=new Cproyecto("instalacion de software para tomografo.","xxxaaa");
 	cout << proyecto_1->getNombre() << endl;
 	cout<< proyecto_1->getIdeDelProyecto()<<endl;
@@ -21,7 +21,7 @@ int main()
 	proyecto_1->ImprimirFechaDeInicioDeProyecto();
 	proyecto_1->ImprimirerFechaDeFinDeProyecto();
 	proyecto_1->EstablecerNombreDelProyecto("hola mundo.");
-	proyecto_1->ImprimirNombreDelProyecto();*/
+	proyecto_1->ImprimirNombreDelProyecto();
 	//------------- probando la clase Cjefe
 	return 0;
 }
